@@ -1,0 +1,9 @@
+ANDROID
+
+sopcast_apk = trunkfolder + "/Modules/Android/SopCast.apk.tar.gz"
+acestreamengine_apk_arm = trunkfolder + "/Modules/Android/AceStream-3.0.6-2in1.apk.tar.gz"
+acestreamengine_apk_x86 = trunkfolder + "/Modules/Android/AceStream-3.0.6-2in1.apk.tar.gz"
+android_aceengine_arm = trunkfolder + "/Modules/Android/org.acestream.engine-arm-3.0.6.tar.gz"
+android_aceengine_x86 = trunkfolder + "/Modules/Android/org.acestream.engine_x86.tar.gz"
+android_aceplayer_arm = trunkfolder + "/Modules/Android/AcePlayer-3.0.6-2in1.apk.tar.gz"
+android_aceplayer_x86 = trunkfolder + "/Modules/Android/AcePlayer-3.0.6-2in1.apk.tar.gz"

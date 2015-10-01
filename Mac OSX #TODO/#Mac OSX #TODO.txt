@@ -1,0 +1,6 @@
+#Mac OSX #TODO
+
+osx_i386_sopcast = trunkfolder + "/Modules/MacOsx/i386/sopcast_osxi386.tar.gz"
+osx_i386_acestream = trunkfolder + "/Modules/MacOsx/acestream_osx64.tar.gz"
+osx_x64_sopcast = trunkfolder + "/Modules/MacOsx/x86_64/sopcast_osx64.tar.gz"
+osx_x64_acestream = trunkfolder + "/Modules/MacOsx/acestream_osx64.tar.gz"
